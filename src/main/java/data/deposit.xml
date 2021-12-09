@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+    <Deposits>
+        <DepositList>
+            <deposit_number>92841637</deposit_number>
+            <deposit_name>Яркий</deposit_name>
+            <storageTime>12</storageTime>
+            <interestRate>14.5</interestRate>
+            <rateType>постоянная</rateType>
+            <amount_operation>не предусмотрены</amount_operation>
+            <responceName>безотзывной</responceName>
+        </DepositList>
+        <DepositList>
+            <deposit_number>45678934</deposit_number>
+            <deposit_name>Простой</deposit_name>
+            <storageTime>10</storageTime>
+            <interestRate>12</interestRate>
+            <rateType>постоянная</rateType>
+            <amount_operation>предусмотрены</amount_operation>
+            <responceName>безотзывной</responceName>
+        </DepositList>
+    <DepositList>
+        <deposit_number>81572046</deposit_number>
+        <deposit_name>Классический</deposit_name>
+        <storageTime>18</storageTime>
+        <interestRate>13</interestRate>
+        <rateType>переменная</rateType>
+        <amount_operation>предусмотрены</amount_operation>
+        <responceName>безотзывной</responceName>
+    </DepositList>
+    <DepositList>
+        <deposit_number>38513944</deposit_number>
+        <deposit_name>Весений</deposit_name>
+        <storageTime>4</storageTime>
+        <interestRate>18.9</interestRate>
+        <rateType>постоянная</rateType>
+        <amount_operation>не предусмотрены</amount_operation>
+        <responceName>безотзывной</responceName>
+    </DepositList>
+    <DepositList>
+        <deposit_number>92175823</deposit_number>
+        <deposit_name>Урожайный</deposit_name>
+        <storageTime>24</storageTime>
+        <interestRate>14.5</interestRate>
+        <rateType>поеременная</rateType>
+        <amount_operation>не предусмотрены</amount_operation>
+        <responceName>ботзывной</responceName>
+    </DepositList>
+    <DepositList>
+        <deposit_number>11384593</deposit_number>
+        <deposit_name>Акционный</deposit_name>
+        <storageTime>7</storageTime>
+        <interestRate>13.5</interestRate>
+        <rateType>постоянная</rateType>
+        <amount_operation>предусмотрены</amount_operation>
+        <responceName>безотзывной</responceName>
+    </DepositList>
+    </Deposits>
